@@ -22,12 +22,14 @@ p {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
+#link1:hover {
+    text-decoration: underline;
+}
 
 #link2 {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
-
-#link:hover {
+#link2:hover {
     text-decoration: underline;
 }
