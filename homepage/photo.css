@@ -1,0 +1,51 @@
+h1 {
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+    color: rgb(48, 48, 83);
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(48, 48, 83);
+}
+
+p {
+    margin: 16px 0 0;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+.myphoto {
+    margin: 20px 0 0;
+    text-align: center;
+}
+
+#ss1 {
+    width: 600px;
+}
+#ss2 {
+    width: 600px;
+}
+#ss3 {
+    width: 600px;
+}
+#ss4 {
+    width: 600px;
+}
+#ss5 {
+    width: 600px;
+}
+#ss6 {
+    width: 600px;
+}
+#ss7 {
+    width: 600px;
+}
+#ss8 {
+    width: 600px;
+}
+#ss9 {
+    width: 600px;
+}

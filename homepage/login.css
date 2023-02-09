@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(147, 166, 188);
+}
+#hint {
+    color: rgb(147, 166, 188);
+}
+#hidelink {
+    text-decoration: none;
+    color: rgb(147, 166, 188);
+    cursor: text;
+}
+
+#dummy {
+    text-decoration: none;
+    color: rgb(147, 166, 188);
+    cursor: text;
+}

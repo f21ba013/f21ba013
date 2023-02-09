@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ログイン</title>
+    <script src="login.js"></script>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+    <form id="login_form">
+        <center>
+            <h1>ログイン</h1>
+            <p>下記からログインすることが出来ます。</p>
+            <p id="hint">パスワードはありません<a href="" id="dummy" tabindex="-1" onclick="tips()">。</a>リンクを探してください<a href="entrance.html" id="hidelink" tabindex="-1">。</a></p>
+        </center>
+        <div>
+            <center>
+                <input type="text" id="pass" placeholder="Password">
+                <input type="button" value="ログイン" onclick="gate()">
+            </center>
+        </div>
+    </form>
+
+</body>
+
+</html>

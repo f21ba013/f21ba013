@@ -1,0 +1,38 @@
+.pr {
+    margin: 16px 0 0;
+    text-align: center;
+}
+
+#myicon {
+    width: 200px;
+}
+
+h1 {
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+    color: rgb(48, 48, 83);
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(48, 48, 83);
+}
+
+p {
+    margin: 16px 0 0;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+#chuo {
+    color: rgb(0, 41, 164);
+    text-decoration: underline;
+}
