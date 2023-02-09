@@ -2,7 +2,7 @@ function gate() {
     var gatepass = document.getElementById("pass").value;
 
 	if (gatepass == 'ヒント') {
-		alert("リンクが隠されています！");
+		alert("文章を押してみよう！");
 	} else {
 		alert("ログインできません。");
 	}
