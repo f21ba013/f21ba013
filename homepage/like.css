@@ -22,47 +22,70 @@ p {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
+#game:hover {
+    text-decoration: underline;
+}
 
 #game1 {
     text-decoration: none;
     color: rgb(0, 41, 164);
+}
+#game1:hover {
+    text-decoration: underline;
 }
 
 #game2 {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
+#game2:hover {
+    text-decoration: underline;
+}
 
 #game3 {
     text-decoration: none;
     color: rgb(0, 41, 164);
+}
+#game3:hover {
+    text-decoration: underline;
 }
 
 #game4 {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
+#game4:hover {
+    text-decoration: underline;
+}
 
 #game5 {
     text-decoration: none;
     color: rgb(0, 41, 164);
+}
+#game5:hover {
+    text-decoration: underline;
 }
 
 #game6 {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
+#game6:hover {
+    text-decoration: underline;
+}
 
 #game7 {
     text-decoration: none;
     color: rgb(0, 41, 164);
+}
+#game7:hover {
+    text-decoration: underline;
 }
 
 #game8 {
     text-decoration: none;
     color: rgb(0, 41, 164);
 }
-
-#game:hover {
+#game8:hover {
     text-decoration: underline;
 }
